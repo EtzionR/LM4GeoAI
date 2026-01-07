@@ -15,6 +15,7 @@ Link to Google Colab code example of Language Models for Geo AI:
 - [Embedding](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_Embedding.ipynb)
 - [NER (Named Entity Recognition)](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_NER.ipynb)
 - [Nominatim](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_Nominatim.ipynb)
+- [OSMnx](https://github.com/EtzionR/LM4GeoAI/blob/main/Tutorial_OSMNX.ipynb)
 - [Folium](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_Folium.ipynb)
 
 
