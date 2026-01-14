@@ -7,7 +7,7 @@ Link to Google Colab code example of Language Models for Geo AI:
 
 |    | Topic | Exercise | Solution |
 | :---- | :------------ | :------------ | :------------ |
-| **Lecture 1** |  Intro to Language Models | | [**SOL_1_Geo_Semantic_Search.ipynb)**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/SOL_1_Geo_Semantic_Search.ipynb) |
+| **Lecture 1** |  Intro to Language Models | | [**SOL_1_Geo_Semantic_Search.ipynb**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/SOL_1_Geo_Semantic_Search.ipynb) |
 | **Lecture 2** | Compact Language Models for Geo-AI | | [**SOL_2_Text_to_Geo.ipynb**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/SOL_2_Text_to_Geo.ipynb) |
 | **Lecture 3** | Large Language Models (LLM) for Geo-AI | |  |
 
