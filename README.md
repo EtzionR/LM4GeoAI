@@ -1,8 +1,9 @@
 # Language Models for GeoAI
 Using Language Models for Geo AI Research
 
-Link to Google Colab code example of Language Models for Geo AI: 
+## Exercise & Solutions
 
+Here you can find links to GeoAI Exercises and Solutions:
 
 |    | Topic | Exercise | Solution |
 | :---- | :------------ | :------------ | :------------ |
@@ -13,12 +14,14 @@ Link to Google Colab code example of Language Models for Geo AI:
 
 ## Tutorials:
 
-- [Cohere and MCP](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Cohere_and_MCP.ipynb)
-- [Embedding](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Embedding.ipynb)
-- [NER (Named Entity Recognition)](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_NER.ipynb)
-- [Nominatim](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Nominatim.ipynb)
-- [OSMnx](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_OSMNX.ipynb)
-- [Folium](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Folium.ipynb)
+Here you can find links to tutorials of important python packages:
+
+- [**Cohere and MCP**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Cohere_and_MCP.ipynb)
+- [**Embedding**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Embedding.ipynb)
+- [**NER (Named Entity Recognition)**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_NER.ipynb)
+- [**Nominatim**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Nominatim.ipynb)
+- [**OSMnx**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_OSMNX.ipynb)
+- [**Folium**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Folium.ipynb)
 
 
 Created by [Etzion Harari](https://github.com/EtzionR) | © GeoAI Course 
