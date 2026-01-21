@@ -1,5 +1,4 @@
 # Language Models for GeoAI
-
 Using Language Models for Geo AI Research
 
 Link to Google Colab code example of Language Models for Geo AI: 
@@ -22,3 +21,4 @@ Link to Google Colab code example of Language Models for Geo AI:
 - [Folium](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Folium.ipynb)
 
 
+Created by [Etzion Harari](https://github.com/EtzionR) | © GeoAI Course 
