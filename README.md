@@ -14,11 +14,11 @@ Link to Google Colab code example of Language Models for Geo AI:
 
 ## Tutorials:
 
-- [Cohere and MCP](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_Cohere_and_MCP.ipynb)
-- [Embedding](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_Embedding.ipynb)
-- [NER (Named Entity Recognition)](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_NER.ipynb)
-- [Nominatim](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_Nominatim.ipynb)
-- [OSMnx](https://github.com/EtzionR/LM4GeoAI/blob/main/Tutorial_OSMNX.ipynb)
-- [Folium](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorial_Folium.ipynb)
+- [Cohere and MCP](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Cohere_and_MCP.ipynb)
+- [Embedding](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Embedding.ipynb)
+- [NER (Named Entity Recognition)](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_NER.ipynb)
+- [Nominatim](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Nominatim.ipynb)
+- [OSMnx](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_OSMNX.ipynb)
+- [Folium](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Folium.ipynb)
 
 
