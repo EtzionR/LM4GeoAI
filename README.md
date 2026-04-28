@@ -7,7 +7,7 @@ Here you can find links to GeoAI Exercises and Solutions:
 
 |    | Topic | Exercise | Solution |
 | :---- | :------------ | :------------ | :------------ |
-| **Lecture 1** |  Intro to Language Models | [**EX_1_Geo_Semantic_Search**](https://colab.research.google.com/github/{{ github.repository }}/blob/{{ github.ref_name }}/Exercises/EX_1_Geo_Semantic_Search.ipynb) | [**SOL_1_Geo_Semantic_Search**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Solutions/SOL_1_Geo_Semantic_Search.ipynb) |
+| **Lecture 1** |  Intro to Language Models | [**EX_1_Geo_Semantic_Search**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Exercises/EX_1_Geo_Semantic_Search.ipynb) | [**SOL_1_Geo_Semantic_Search**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Solutions/SOL_1_Geo_Semantic_Search.ipynb) |
 | **Lecture 2** | Compact Language Models for Geo-AI | [**EX_2_Text_to_Geo**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Exercises/EX_2_Text_to_Geo.ipynb) | [**SOL_2_Text_to_Geo**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Solutions/SOL_2_Text_to_Geo.ipynb) |
 | **Lecture 3** | Large Language Models (LLM) for Geo-AI | [**EX_3_Geo_LLM_Agents**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Exercises/EX_3_Geo_LLM_Agents.ipynb) | [**SOL_3_Geo_LLM_Agents**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Solutions/SOL_3_Geo_LLM_Agents.ipynb) |
 
