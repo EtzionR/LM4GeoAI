@@ -22,6 +22,6 @@ Here you can find links to tutorials of important python packages:
 - [**Nominatim**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Nominatim.ipynb)
 - [**OSMnx**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_OSMNX.ipynb)
 - [**Folium**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Folium.ipynb)
-
+- [**VLM**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Vision_Language_Models.ipynb)
 
 Created by [Etzion Harari](https://github.com/EtzionR) | © GeoAI Course 
