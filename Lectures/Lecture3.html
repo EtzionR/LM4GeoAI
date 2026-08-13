@@ -757,6 +757,62 @@ Return JSON:
 </section>
 
 <section data-background-color="#0d1117">
+  <h2 style="color:#38bdf8">MCP — Connecting LLMs to Tools</h2>
+  <div class="g2" style="margin-top:8px;gap:18px">
+    <div>
+      <div class="c cb sm" style="margin-bottom:8px">
+        <strong>What is MCP?</strong><br>
+        <span style="color:#8b949e">Model Context Protocol</span> — a standard that lets an LLM discover and call external <strong>tools</strong>: APIs, databases, file systems, code runners, services. Think of it as a USB port for AI: any tool that speaks MCP can plug in.
+      </div>
+      <div class="c cg sm" style="margin-bottom:8px">
+        <strong>How it works</strong><br>
+        Each MCP server exposes a list of <em>tool definitions</em> (name + description + schema). The LLM reads those definitions, decides which tool to call, sends the call, gets back a result — and continues reasoning.
+      </div>
+      <div class="c co sm">
+        <strong>⚠ The scaling problem</strong><br>
+        Every tool definition costs tokens. Load 200 tools → 200 schemas sitting in the context window before the first word of the task. That wastes capacity, inflates cost, and can push the actual task content out of the window entirely.
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:10px">
+      <svg viewBox="0 0 340 230" style="width:100%">
+        <defs>
+          <marker id="arrM" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0,0 8,3 0,6" fill="#8b949e"/></marker>
+          <marker id="arrMb" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0,0 8,3 0,6" fill="#38bdf8"/></marker>
+          <marker id="arrMg" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0,0 8,3 0,6" fill="#34d399"/></marker>
+        </defs>
+        <!-- LLM box -->
+        <rect x="110" y="16" width="120" height="40" rx="9" fill="rgba(56,189,248,.18)" stroke="#38bdf8"/>
+        <text x="170" y="41" text-anchor="middle" fill="#dbeafe" font-size="14" font-weight="bold">LLM</text>
+        <!-- Semantic Classifier box -->
+        <rect x="90" y="92" width="160" height="38" rx="9" fill="rgba(167,139,250,.18)" stroke="#a78bfa"/>
+        <text x="170" y="108" text-anchor="middle" fill="#e9d5ff" font-size="12" font-weight="bold">Semantic Classifier</text>
+        <text x="170" y="122" text-anchor="middle" fill="#c4b5fd" font-size="9">picks relevant tools, no full list needed</text>
+        <!-- arrow LLM -> classifier -->
+        <line x1="170" y1="56" x2="170" y2="90" stroke="#8b949e" stroke-width="1.5" marker-end="url(#arrM)"/>
+        <!-- MCP servers -->
+        <rect x="18" y="166" width="82" height="36" rx="8" fill="rgba(251,146,60,.14)" stroke="#fb923c"/>
+        <text x="59" y="186" text-anchor="middle" fill="#ffedd5" font-size="10">MCP: Files</text>
+        <rect x="129" y="166" width="82" height="36" rx="8" fill="rgba(251,146,60,.14)" stroke="#fb923c"/>
+        <text x="170" y="186" text-anchor="middle" fill="#ffedd5" font-size="10">MCP: Web</text>
+        <rect x="240" y="166" width="82" height="36" rx="8" fill="rgba(251,146,60,.14)" stroke="#fb923c"/>
+        <text x="281" y="186" text-anchor="middle" fill="#ffedd5" font-size="10">MCP: Code</text>
+        <!-- arrows classifier -> tools (only selected) -->
+        <line x1="140" y1="130" x2="80" y2="164" stroke="#34d399" stroke-width="1.5" marker-end="url(#arrMg)"/>
+        <line x1="170" y1="130" x2="170" y2="164" stroke="#34d399" stroke-width="1.5" marker-end="url(#arrMg)"/>
+        <!-- dimmed arrow to code (not selected) -->
+        <line x1="200" y1="130" x2="260" y2="164" stroke="#4a5568" stroke-width="1.2" stroke-dasharray="4,3" marker-end="url(#arrM)"/>
+        <text x="281" y="215" text-anchor="middle" fill="#4a5568" font-size="9">not loaded</text>
+        <text x="170" y="220" text-anchor="middle" fill="#34d399" font-size="9">only relevant schemas in context</text>
+      </svg>
+      <div class="c cp sm">
+        <strong>Semantic Classifier</strong><br>
+        A lightweight model (or embedding lookup) reads the user's task and selects the 3–5 most relevant MCP tools. Only <em>those</em> schemas enter the context window. The rest stay outside — invisible to the LLM, costing zero tokens.
+      </div>
+    </div>
+  </div>
+</section>
+
+<section data-background-color="#0d1117">
   <h2 style="color:#fb923c">Multi-Agent Systems</h2>
   <div class="g2" style="margin-top:10px">
     <div>
