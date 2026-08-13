@@ -1,4 +1,4 @@
-﻿number,query_type,query
+﻿Number,Query_Type,Query
 1,shortest path,What's the quickest way to get from my apartment on 5th Avenue to JFK Airport?
 2,shortest path,Find the shortest route from Berlin Hauptbahnhof to Munich city center.
 3,shortest path,How do I get from the Eiffel Tower to Charles de Gaulle Airport in the least time?
