@@ -1,3 +1,5 @@
+![Theme](https://github.com/EtzionR/LM4GeoAI/blob/main/Data/GeoAI_GIT_Theme.png)
+
 # Language Models for GeoAI
 Using Language Models for Geo AI Research
 
