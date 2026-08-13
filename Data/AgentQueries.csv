@@ -1,0 +1,151 @@
+﻿number,query_type,query
+1,shortest path,What's the quickest way to get from my apartment on 5th Avenue to JFK Airport?
+2,shortest path,Find the shortest route from Berlin Hauptbahnhof to Munich city center.
+3,shortest path,How do I get from the Eiffel Tower to Charles de Gaulle Airport in the least time?
+4,shortest path,Calculate the fastest path between Tel Aviv and Jerusalem.
+5,shortest path,I need directions from my office in downtown Chicago to O'Hare International Airport — shortest route please.
+6,shortest path,What's the most efficient way to walk from Times Square to Central Park Zoo?
+7,shortest path,Plan the shortest driving route from Los Angeles to San Diego avoiding highways.
+8,shortest path,"How far is it, and what's the fastest path, from Sydney Opera House to Bondi Beach?"
+9,shortest path,Get me the quickest route from Heathrow Airport to central London by public transit.
+10,shortest path,What's the shortest path between Kyoto Station and Fushimi Inari Shrine?
+11,shortest path,I'm at the Colosseum in Rome — what's the fastest way to reach Vatican City?
+12,shortest path,Find the minimal-distance route connecting my house in Brooklyn to Newark Airport.
+13,shortest path,What's the best route from Cape Town waterfront to Table Mountain cable car station?
+14,shortest path,Calculate driving time and shortest path from Toronto to Niagara Falls.
+15,shortest path,How do I get from Dubai Mall to Burj Al Arab in the shortest possible time?
+16,shortest path,Show me the shortest bike route from my apartment near Golden Gate Park to the Ferry Building.
+17,shortest path,What's the fastest way from Barcelona airport to Sagrada Familia?
+18,shortest path,Plan a route from Mumbai's Chhatrapati Shivaji Terminus to Gateway of India — shortest path.
+19,shortest path,I need the quickest driving directions from Denver to Boulder.
+20,shortest path,What's the shortest walking path from my hotel in Amsterdam to the Anne Frank House?
+21,shortest path,Find the optimal route between Singapore Changi Airport and Marina Bay Sands.
+22,shortest path,"How long would it take, and what's the shortest route, from Boston Logan Airport to Harvard Square?"
+23,shortest path,Calculate the fastest path from Cairo to the Giza Pyramids.
+24,shortest path,What's the best driving route from Seattle to Portland avoiding tolls?
+25,shortest path,Give me the shortest transit route from my flat in Prague Old Town to Prague Castle.
+26,shortest path,I'm heading from Austin downtown to the airport — what's the quickest path?
+27,shortest path,Find the shortest route between Machu Picchu and Cusco.
+28,shortest path,What's the most direct way to drive from Vancouver to Whistler?
+29,shortest path,Calculate the fastest path from my office in Frankfurt to Frankfurt Airport during rush hour.
+30,shortest path,Show me the shortest possible route from Buenos Aires city center to Ezeiza International Airport.
+31,get pois near location,What are the best coffee shops near the Eiffel Tower?
+32,get pois near location,Show me all the hotels close to Times Square.
+33,get pois near location,I need a list of vegetarian restaurants around the Colosseum.
+34,get pois near location,Find pharmacies near Buckingham Palace.
+35,get pois near location,What ATMs are located close to the Sagrada Familia?
+36,get pois near location,List some good bars within walking distance of the Brandenburg Gate.
+37,get pois near location,Are there any bookstores near Central Park?
+38,get pois near location,Find parking garages close to the Sydney Opera House.
+39,get pois near location,What are the top-rated sushi restaurants near Shibuya Crossing?
+40,get pois near location,Show me pet-friendly parks around the Golden Gate Bridge.
+41,get pois near location,I need gas stations near the Grand Canyon South Rim entrance.
+42,get pois near location,Find rooftop bars close to the Burj Khalifa.
+43,get pois near location,What museums are within a mile of the Louvre?
+44,get pois near location,List budget hostels near La Sagrada Familia.
+45,get pois near location,Are there any bike rental shops close to Central Park?
+46,get pois near location,Find vegan-friendly cafes near Camden Market.
+47,get pois near location,What grocery stores are near Notre-Dame Cathedral?
+48,get pois near location,Show me the closest hospitals to the Vatican.
+49,get pois near location,I want a list of ice cream shops around Piazza Navona.
+50,get pois near location,Find electric vehicle charging stations near the Hollywood Sign.
+51,get pois near location,What are some good breakfast spots near Machu Picchu's entrance?
+52,get pois near location,List laundromats close to my hotel near Shinjuku Station.
+53,get pois near location,Are there any craft breweries near Fisherman's Wharf?
+54,get pois near location,Find souvenir shops close to the Great Wall at Badaling.
+55,get pois near location,What spas are located near the Blue Lagoon in Iceland?
+56,get pois near location,Show me dog parks near Millennium Park in Chicago.
+57,get pois near location,I need currency exchange offices near Red Square.
+58,get pois near location,Find rock climbing gyms close to Yosemite Valley.
+59,get pois near location,What late-night diners are near the Las Vegas Strip?
+60,get pois near location,List art galleries within walking distance of the Tate Modern.
+61,describe location,"I'm at 48.8584° N, 2.2945° E — where am I exactly?"
+62,describe location,"My GPS says 40.7580, -73.9855, what's around here?"
+63,describe location,"Can you tell me what neighborhood I'm standing in? Coordinates: 51.5007, -0.1246."
+64,describe location,"What is this place? My phone shows lat 35.6586, long 139.7454."
+65,describe location,"I'm currently at coordinates -33.8568, 151.2153 — describe where I am."
+66,describe location,"Where am I right now? 41.9028 N, 12.4964 E."
+67,describe location,"Tell me about this location: 25.1972, 55.2744."
+68,describe location,"What's the address for these coordinates: 34.0522, -118.2437?"
+69,describe location,"I dropped a pin at 55.7558, 37.6173 — what's here?"
+70,describe location,"Describe my surroundings based on GPS coordinates 19.4326, -99.1332."
+71,describe location,"What city/district am I in at 22.3193, 114.1694?"
+72,describe location,"My location is 37.8199, -122.4783 — can you identify it?"
+73,describe location,"Give me details about this spot: -22.9519, -43.2105."
+74,describe location,"What's at these coordinates: 1.2839, 103.8607?"
+75,describe location,"I'm somewhere around 52.5200, 13.4050 — what is this area known for?"
+76,describe location,"Identify this location for me: 43.6532, -79.3832."
+77,describe location,"Where exactly does 28.6139, 77.2090 correspond to?"
+78,describe location,"My current position is 59.3293, 18.0686 — what neighborhood is this?"
+79,describe location,"Tell me what's nearby at 39.9042, 116.4074."
+80,describe location,"What landmark or area is at 48.2082, 16.3738?"
+81,describe location,"I'm at latitude -34.6037, longitude -58.3816 — where am I?"
+82,describe location,"Describe this place: 13.7563, 100.5018."
+83,describe location,"What region is 45.4642, 9.1900 in?"
+84,describe location,"My coordinates right now are 6.5244, 3.3792 — what's around me?"
+85,describe location,"Can you identify the area at 60.1699, 24.9384?"
+86,describe location,"Give me context on this location: -1.2921, 36.8219."
+87,describe location,"What's the neighborhood at 29.7604, -95.3698?"
+88,describe location,"I'm standing at 50.0755, 14.4378 — what's this place called?"
+89,describe location,"Tell me about where I am: 31.2304, 121.4737."
+90,describe location,"What's at coordinates 41.0082, 28.9784?"
+91,get satellite image,Can I get a satellite view of the Amazon Rainforest?
+92,get satellite image,Show me a satellite image of Manhattan.
+93,get satellite image,I'd like to see an aerial photo of the Pyramids of Giza.
+94,get satellite image,Pull up satellite imagery for Dubai's Palm Jumeirah.
+95,get satellite image,Get me a bird's-eye view of Yellowstone National Park.
+96,get satellite image,"Show a satellite picture of my neighborhood in Portland, Oregon."
+97,get satellite image,Can you display a satellite image of the Great Barrier Reef?
+98,get satellite image,I need an aerial view of the Grand Canyon.
+99,get satellite image,Show me from space what the Sahara Desert looks like.
+100,get satellite image,Get a satellite shot of Tokyo Bay.
+101,get satellite image,Pull up an overhead image of Central Park.
+102,get satellite image,Can I see a satellite view of Mount Everest?
+103,get satellite image,Show me the current satellite imagery of Hurricane-prone areas in Florida.
+104,get satellite image,I want a satellite photo of the Nile River delta.
+105,get satellite image,Display a top-down view of the Golden Gate Bridge.
+106,get satellite image,Get me satellite imagery of the Antarctic ice shelf.
+107,get satellite image,Show a satellite view of Silicon Valley.
+108,get satellite image,Can you pull up an aerial image of the Panama Canal?
+109,get satellite image,I'd like to see the satellite view of Venice's canals.
+110,get satellite image,Show me a space-based image of the Sydney Harbour.
+111,get satellite image,Get an overhead shot of the Las Vegas Strip.
+112,get satellite image,Can I view a satellite picture of Chernobyl's exclusion zone?
+113,get satellite image,Show a bird's-eye image of the Serengeti plains.
+114,get satellite image,I need a satellite view of my farm near Iowa City.
+115,get satellite image,Pull up imagery from space of the Hoover Dam.
+116,get satellite image,Show me what Singapore looks like from a satellite.
+117,get satellite image,Get an aerial photo of Mount Fuji.
+118,get satellite image,Can you show a satellite image of the Bermuda Triangle area?
+119,get satellite image,I want to see a top-down view of Central London.
+120,get satellite image,Display satellite imagery of the Great Wall of China near Badaling.
+121,get ground image,Show me some photos taken at the Eiffel Tower.
+122,get ground image,Can I see pictures people have taken inside the Sistine Chapel?
+123,get ground image,Pull up some street-level photos of Times Square at night.
+124,get ground image,I want to see what the entrance to Machu Picchu looks like in real photos.
+125,get ground image,Show me photos taken from the top of the Empire State Building.
+126,get ground image,Can you find images captured at Santorini's Oia village?
+127,get ground image,I'd like to see real photos of the inside of the Louvre.
+128,get ground image,Show me pictures taken along the Great Wall of China at Mutianyu.
+129,get ground image,"Pull up some photos from Bondi Beach, Australia."
+130,get ground image,Can I see what the streets of Marrakech's medina actually look like?
+131,get ground image,Show me tourist photos of the Trevi Fountain.
+132,get ground image,I want pictures taken at the base camp of Mount Everest.
+133,get ground image,Find some photos snapped inside Tokyo's Shibuya Station.
+134,get ground image,Show me real images of the Northern Lights taken in Reykjavik.
+135,get ground image,"Can you pull up photos from the streets of Havana, Cuba?"
+136,get ground image,I'd like to see pictures taken at the Taj Mahal at sunrise.
+137,get ground image,Show me photos captured inside the Sagrada Familia.
+138,get ground image,Find images taken by visitors at Angkor Wat.
+139,get ground image,Can I see street photos from La Rambla in Barcelona?
+140,get ground image,Show me pictures taken at Niagara Falls from the viewing deck.
+141,get ground image,I want photos from inside the Blue Mosque in Istanbul.
+142,get ground image,Pull up some images taken at Victoria Falls.
+143,get ground image,Show me what Bourbon Street in New Orleans looks like in photos.
+144,get ground image,Can you find pictures snapped at the summit of Table Mountain?
+145,get ground image,"I'd like to see photos taken at the entrance of Petra, Jordan."
+146,get ground image,Show me images from the platforms of Shinjuku Station.
+147,get ground image,Find photos taken at the Cliffs of Moher.
+148,get ground image,Can I see real pictures of the crowds at La Sagrada Familia?
+149,get ground image,Show me photos captured on the streets of Kyoto's Gion district.
+150,get ground image,I want to see images taken at the summit of Kilimanjaro.
