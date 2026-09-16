@@ -27,9 +27,9 @@ Here you can find links to GeoAI Exercises and Solutions:
 
 Here you can find links to tutorials of important python packages:
 
+- [**NER (Named Entity Recognition)**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_NER.ipynb)
 - [**Cohere and MCP**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Cohere_and_MCP.ipynb)
 - [**Embedding**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Embedding.ipynb)
-- [**NER (Named Entity Recognition)**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_NER.ipynb)
 - [**Nominatim**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Nominatim.ipynb)
 - [**OSMnx**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_OSMNX.ipynb)
 - [**Folium**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Folium.ipynb)
