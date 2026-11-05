@@ -40,4 +40,6 @@ The projects deals with transforming unstructured **Wikipedia** pages into a geo
 - First group: [https://github.com/EtzionR/Corpus2GeoRAG](https://github.com/EtzionR/Corpus2GeoRAG)
 - Second group: [https://github.com/EtzionR/Corpus2GeoRAG_Pacific](https://github.com/EtzionR/Corpus2GeoRAG_Pacific)
 
+![pipline_figure](https://github.com/EtzionR/LM4GeoAI/blob/main/Data/project_pipeline.png)
+
 Created by [Etzion Harari](https://github.com/EtzionR) | © GeoAI Course | [The Arena](https://www.thearena-tech.com/)
