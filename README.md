@@ -35,4 +35,9 @@ Here you can find links to tutorials of important python packages:
 - [**Folium**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_Folium.ipynb)
 - [**VLM**](https://colab.research.google.com/github/EtzionR/LM4GeoAI/blob/main/Tutorials/Tutorial_VLM.ipynb)
 
+## Projects:
+The projects deals with transforming unstructured **Wikipedia** pages into a geographically-aware knowledge graph, which is then used by a **Agentic-RAG system** to retrieve and explore information through both natural-language queries and an interactive map. Both project based on knowledge acquired during the **LM4GeoAI** course. You can find the resulted projects in the following links:
+- First group: [https://github.com/EtzionR/Corpus2GeoRAG](https://github.com/EtzionR/Corpus2GeoRAG)
+- Second group: [https://github.com/EtzionR/Corpus2GeoRAG_Pacific](https://github.com/EtzionR/Corpus2GeoRAG_Pacific)
+
 Created by [Etzion Harari](https://github.com/EtzionR) | © GeoAI Course | [The Arena](https://www.thearena-tech.com/)
